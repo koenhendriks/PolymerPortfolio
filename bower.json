@@ -1,0 +1,21 @@
+{
+  "name": "PolymerPortfolio",
+  "authors": [
+    "Koen Hendriks <info@koenhendriks.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://koenhendriks.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
